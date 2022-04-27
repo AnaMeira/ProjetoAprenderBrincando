@@ -37,7 +37,7 @@ O projeto tem por objetivo ajudar estudantes de baixa renda com reforços escola
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Contribuição
-Para saber mais sobre nosso código de conduta e processos leia o arquivo <a href="https://github.com/WillianGomesSoares/BemStar/blob/main/CONTRIBUTING.md">CONTRIBUTING.md <a>
+Para saber mais sobre nosso código de conduta e processos leia o arquivo <a href="https://github.com/AnaMeira/ProjetoAprenderBrincando/blob/main/CONTRIBUTING.md">CONTRIBUTING.md <a>
 
 ## Autores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
