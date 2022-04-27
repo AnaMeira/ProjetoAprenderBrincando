@@ -1,5 +1,6 @@
 # Projeto Aprender Brincando
-![Projeto Aprender Brincando](https://user-images.githubusercontent.com/103151894/165622315-b21b7c2a-1b33-4ad7-b0ea-a3941b2c62c8.png)
+<img src="https://user-images.githubusercontent.com/103151894/165622315-b21b7c2a-1b33-4ad7-b0ea-a3941b2c62c8.png" width="600px;" alt=""/>
+
 
 
 ## Sobre o projeto
