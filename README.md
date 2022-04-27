@@ -49,7 +49,8 @@ Para saber mais sobre nosso código de conduta e processos leia o arquivo <a hre
      <td align="center"><a href="https://github.com/vitorcampolina"><img src="https://avatars.githubusercontent.com/u/103151856?v=4" width="100px;" alt=""/><br /><sub><b>Vitor Gabriel Campolina Silva</b></sub></td>
      <td align="center"><a href="https://github.com/AnaMeira"><img src="https://avatars.githubusercontent.com/u/103151894?v=4" width="100px;" alt=""/><br /><sub><b>Ana Carolina Alves de Meira</b></sub></td>
      <td align="center"><a href="https://github.com/raylabernardino"><img src="https://avatars.githubusercontent.com/u/103151857?v=4" width="100px;" alt=""/><br /><sub><b>Rayla Silva Bernardino</b></sub></td>
-     <td align="center"><a href="https://github.com/Maycon-Soares"><img src="https://avatars.githubusercontent.com/u/103152138?v=4" width="100px;" alt=""/><br /><sub><b>Maycon Douglas Nunes Soares </b></sub></td>
+     <td align="center"><a href="https://github.com/Maycon-Soares"><img src="https://avatars.githubusercontent.com/u/103152138?v=4" width="100px;" alt=""/><br /><sub><b>Maycon Douglas Nunes Soares</b></sub></td>
+     <td align="center"><a href="https://github.com/Heitordays"><img src="https://avatars.githubusercontent.com/u/103151921?v=4" width="100px;" alt=""/><br /><sub><b>Heitor Dias Guimarães</b></sub></td>
    </tr>
 </table>
 <!-- markdownlint-restore -->
