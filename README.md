@@ -52,6 +52,7 @@ Para saber mais sobre nosso código de conduta e processos leia o arquivo <a hre
      <td align="center"><a href="https://github.com/Maycon-Soares"><img src="https://avatars.githubusercontent.com/u/103152138?v=4" width="100px;" alt=""/><br /><sub><b>Maycon Douglas Nunes Soares</b></sub></td>
      <td align="center"><a href="https://github.com/Heitordays"><img src="https://avatars.githubusercontent.com/u/103151921?v=4" width="100px;" alt=""/><br /><sub><b>Heitor Dias Guimarães</b></sub></td>
      <td align="center"><a href="https://github.com/FlaviaFurtado"><img src="https://avatars.githubusercontent.com/u/102922885?v=4" width="100px;" alt=""/><br /><sub><b>Carolina Flávia Furtado</b></sub></td>
+      <td align="center"><a href="https://github.com/kollins7"><img src="https://avatars.githubusercontent.com/u/103152280?v=4" width="100px;" alt=""/><br /><sub><b>Kollins Nunes Oliveira</b></sub></td>
    </tr>
 </table>
 <!-- markdownlint-restore -->
