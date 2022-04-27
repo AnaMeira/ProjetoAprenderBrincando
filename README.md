@@ -41,6 +41,8 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+      
 ## Licença
 Este projeto está sob licencimanento da Licença MIT, para saber mais conlsute o arquivo <a href= "https://github.com/WillianGomesSoares/BemStar/blob/main/LICENSE.md">LICENSE.md</a> para mais detalhes.
 
