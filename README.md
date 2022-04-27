@@ -34,7 +34,7 @@
 <table>
    <tr> <align="center"><a href="https://github.com/o-emanuelneves"><img src="https://avatars.githubusercontent.com/u/103153962?v=4" width="100px;" alt=""/><br /><sub><b>Emanuel Neves de Oliveira</b></sub></td>
    <tr><align="center"><a href="https://github.com/vitorcampolina"><img src="https://avatars.githubusercontent.com/u/103151856?v=4" width="100px;" alt=""/><br /><sub><b>Vitor Gabriel Campolina Silva</b></sub></td>
-   <tr><align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/103151856?v=4" width="100px;" alt=""/><br /><sub><b>Vitor Gabriel Campolina Silva</b></sub></td>
+   <tr><align="center"><a href="https://github.com/AnaMeira"><img src="https://github.com/settings/profile" width="100px;" alt=""/><br /><sub><b>Ana Carolina Alves de Meira</b></sub></td>
 
      
 ## Licença
