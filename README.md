@@ -35,13 +35,12 @@
    <tr>
      <tr> <td align="center"><a href="https://github.com/o-emanuelneves"><img src="https://avatars.githubusercontent.com/u/103153962?v=4" width="100px;" alt=""/><br /><sub><b>Emanuel Neves de Oliveira</b></sub></td>
      <tr> <td align="center"><a href="https://github.com/vitorcampolina"><img src="https://avatars.githubusercontent.com/u/103151856?v=4" width="100px;" alt=""/><br /><sub><b>Vitor Gabriel Campolina Silva</b></sub></td>
-     <tr> <td align="center"><a href="https://avatars.githubusercontent.com/u/103151894?v=4"><img src="https://github.com/settings/profile" width="100px;" alt=""/><br /><sub><b>Ana Carolina Alves de Meira</b></sub></td>
+     <tr> <td align="center"><a href="https://github.com/AnaMeira"><img src="https://avatars.githubusercontent.com/u/103151894?v=4" width="100px;" alt=""/><br /><sub><b>Ana Carolina Alves de Meira</b></sub></td>
    <tr>
 <table
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-     
 ## Licença
 Este projeto está sob licencimanento da Licença MIT, para saber mais conlsute o arquivo <a href= "https://github.com/WillianGomesSoares/BemStar/blob/main/LICENSE.md">LICENSE.md</a> para mais detalhes.
 
