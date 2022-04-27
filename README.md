@@ -50,3 +50,4 @@ O projeto tem por objetivo ajudar estudantes de baixa renda com reforços escola
 Este projeto está sob licencimanento da Licença MIT, para saber mais conlsute o arquivo <a href= "https://github.com/WillianGomesSoares/BemStar/blob/main/LICENSE.md">LICENSE.md</a> para mais detalhes.
 
 ## Agradecimentos
+O nosso projeto agradece a imensa colaboração do professor e mentor https://github.com/profdiegoaugusto , além de todos os outros colaboradores que nos ajudaram a implementar nossa ideia.
