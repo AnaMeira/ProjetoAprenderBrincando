@@ -20,6 +20,13 @@ O projeto tem por objetivo ajudar estudantes de baixa renda com reforços escola
 * [Agradecimentos](#agradecimentos)
 
 ## Requisitos Funcionais
+ * Cadastrar Usuário
+ * Fazer Login
+ * Matricular em Curso
+ * Cancelar Matricula
+ * Visualizar Notas
+ * Visualizar e Atualizar Informações do Estudante
+ * Visualizar Aulas
 
 ## Tecnologias usadas
 - [Flutter](https://flutter.dev/)
@@ -47,7 +54,7 @@ O projeto tem por objetivo ajudar estudantes de baixa renda com reforços escola
 <!-- ALL-CONTRIBUTORS-LIST:END -->
       
 ## Licença
-Este projeto está sob licencimanento da Licença MIT, para saber mais conlsute o arquivo <a href= "https://github.com/AnaMeira/repositorioteste/blob/main/LICENSE.md">LICENSE.md</a> para mais detalhes.
+Este projeto está sob licencimanento da Licença MIT, para saber mais conlsute o arquivo <a href= "https://github.com/AnaMeira/repositorioteste/blob/main/LICENSE">LICENSE.md</a> para mais detalhes.
 
 ## Agradecimentos
 O nosso projeto agradece a imensa colaboração do professor e mentor https://github.com/profdiegoaugusto , além de todos os outros colaboradores que nos ajudaram a implementar nossa ideia.
