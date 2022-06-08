@@ -6,8 +6,8 @@
 O projeto tem por objetivo ajudar estudantes de baixa renda com reforços escolares, melhorando assim a possibilidade de os mesmos conseguirem construir uma carreira melhor.
 
 ### Objetivo Geral
- - Melhorar o aprendizado de estudantes do ensino básico
- - Dar melhores oportunidades para os estudantes de baixa renda
+ - Melhorar o aprendizado de estudantes do ensino básico;
+ - Dar melhores oportunidades para os estudantes de baixa renda;
 
 
 ## Sumário
